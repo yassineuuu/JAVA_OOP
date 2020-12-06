@@ -1,4 +1,6 @@
 public class Emplyees {
+
+    //exercice3
     String nom;
     String adresse;
     double solde;
@@ -15,9 +17,7 @@ public class Emplyees {
         System.out.println("The employee Solde is: " + solde +"DH");
         System.out.println();
         System.out.println("#############################################");
-        System.out.println(
-
-        );
+        System.out.println();
     }
 
     public static void main(String[] args) {
